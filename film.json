@@ -1,0 +1,307 @@
+{
+ "fps": 60,
+ "samples": 10,
+ "tier": "standard",
+ "lyric": {
+  "haloSpread": 9,
+  "shade": 0.5,
+  "lift": false
+ },
+ "scenes": [
+  {
+   "id": "00",
+   "scene": "s00-title",
+   "from": 0.0,
+   "to": 2.86,
+   "hold": "the title in the first seconds"
+  },
+  {
+   "id": "01",
+   "scene": "s01-numerous",
+   "from": 2.86,
+   "to": 8.47
+  },
+  {
+   "id": "02",
+   "scene": "s02-daughters",
+   "from": 8.47,
+   "to": 12.23
+  },
+  {
+   "id": "03",
+   "scene": "s03-sons-saw",
+   "from": 12.23,
+   "to": 17.22
+  },
+  {
+   "id": "04",
+   "scene": "s04-took",
+   "from": 17.22,
+   "to": 22.25
+  },
+  {
+   "id": "05",
+   "scene": "s05-spirit",
+   "from": 22.25,
+   "to": 26.882,
+   "hold": "one sentence of God"
+  },
+  {
+   "id": "06",
+   "scene": "s06-years",
+   "from": 26.882,
+   "to": 31.57
+  },
+  {
+   "id": "07",
+   "scene": "s07-giants",
+   "from": 31.57,
+   "to": 36.423
+  },
+  {
+   "id": "08",
+   "scene": "s08-came",
+   "from": 36.423,
+   "to": 41.323
+  },
+  {
+   "id": "09",
+   "scene": "s09-renown",
+   "from": 41.323,
+   "to": 50.564,
+   "hold": "the held line into the drop"
+  },
+  {
+   "id": "10",
+   "scene": "s10-saw",
+   "from": 50.564,
+   "to": 59.36,
+   "hold": "the near-silent drop"
+  },
+  {
+   "id": "11",
+   "scene": "s11-multiply",
+   "from": 59.36,
+   "to": 63.06
+  },
+  {
+   "id": "12",
+   "scene": "s12-brooding",
+   "from": 63.06,
+   "to": 67.845
+  },
+  {
+   "id": "13",
+   "scene": "s13-pondered",
+   "from": 67.845,
+   "to": 74.18,
+   "hold": "one sentence of God pondering"
+  },
+  {
+   "id": "14",
+   "scene": "s14-wipe",
+   "from": 74.18,
+   "to": 80.37
+  },
+  {
+   "id": "15",
+   "scene": "s15-creatures",
+   "from": 80.37,
+   "to": 84.69
+  },
+  {
+   "id": "16",
+   "scene": "s16-grieve",
+   "from": 84.69,
+   "to": 89.02
+  },
+  {
+   "id": "17",
+   "scene": "s17-grace",
+   "from": 89.02,
+   "to": 98.35,
+   "hold": "grace breaks: one sentence"
+  },
+  {
+   "id": "18",
+   "scene": "s18-generations",
+   "from": 98.35,
+   "to": 104.59
+  },
+  {
+   "id": "19",
+   "scene": "s19-just",
+   "from": 104.59,
+   "to": 109.6
+  },
+  {
+   "id": "20",
+   "scene": "s20-pleasing",
+   "from": 109.6,
+   "to": 112.069
+  },
+  {
+   "id": "21",
+   "scene": "s21-sons",
+   "from": 112.069,
+   "to": 116.729
+  },
+  {
+   "id": "22",
+   "scene": "s22-corrupt",
+   "from": 116.729,
+   "to": 121.89
+  },
+  {
+   "id": "23",
+   "scene": "s23-looked",
+   "from": 121.89,
+   "to": 126.76
+  },
+  {
+   "id": "24",
+   "scene": "s24-all-flesh",
+   "from": 126.76,
+   "to": 131.08
+  },
+  {
+   "id": "25",
+   "scene": "s25-end",
+   "from": 131.08,
+   "to": 136.081
+  },
+  {
+   "id": "26",
+   "scene": "s26-destroy",
+   "from": 136.081,
+   "to": 142.5
+  },
+  {
+   "id": "27",
+   "scene": "s27-ark",
+   "from": 142.5,
+   "to": 146.8
+  },
+  {
+   "id": "28",
+   "scene": "s28-pitch",
+   "from": 146.8,
+   "to": 152.052
+  },
+  {
+   "id": "29",
+   "scene": "s29-cubits",
+   "from": 152.052,
+   "to": 160.883,
+   "hold": "three measures of one command"
+  },
+  {
+   "id": "30",
+   "scene": "s30-narrow",
+   "from": 160.883,
+   "to": 166.483
+  },
+  {
+   "id": "31",
+   "scene": "s31-door",
+   "from": 166.483,
+   "to": 172.49
+  },
+  {
+   "id": "32",
+   "scene": "s32-flood",
+   "from": 172.49,
+   "to": 177.49
+  },
+  {
+   "id": "33",
+   "scene": "s33-perish",
+   "from": 177.49,
+   "to": 181.25
+  },
+  {
+   "id": "34",
+   "scene": "s34-die",
+   "from": 181.25,
+   "to": 187.885,
+   "hold": "the held climax"
+  },
+  {
+   "id": "35",
+   "scene": "s35-covenant",
+   "from": 187.885,
+   "to": 195.02,
+   "hold": "the covenant, one sentence"
+  },
+  {
+   "id": "36",
+   "scene": "s36-enter",
+   "from": 195.02,
+   "to": 202.53,
+   "hold": "one sentence"
+  },
+  {
+   "id": "37",
+   "scene": "s37-pairs",
+   "from": 202.53,
+   "to": 207.49
+  },
+  {
+   "id": "38",
+   "scene": "s38-beasts",
+   "from": 207.49,
+   "to": 211.667
+  },
+  {
+   "id": "39",
+   "scene": "s39-feed",
+   "from": 211.667,
+   "to": 216.157
+  },
+  {
+   "id": "40",
+   "scene": "s40-birds",
+   "from": 216.157,
+   "to": 220.347
+  },
+  {
+   "id": "41",
+   "scene": "s41-crawl",
+   "from": 220.347,
+   "to": 223.188
+  },
+  {
+   "id": "42",
+   "scene": "s42-two",
+   "from": 223.188,
+   "to": 228.078
+  },
+  {
+   "id": "43",
+   "scene": "s43-food",
+   "from": 228.078,
+   "to": 231.808
+  },
+  {
+   "id": "44",
+   "scene": "s44-store",
+   "from": 231.808,
+   "to": 240.509,
+   "hold": "the long held line"
+  },
+  {
+   "id": "45",
+   "scene": "s45-obey",
+   "from": 240.509,
+   "to": 248.95,
+   "hold": "one sentence"
+  },
+  {
+   "id": "46",
+   "scene": "s46-end",
+   "from": 248.95,
+   "to": 254.8,
+   "hold": "the last line and the end title"
+  }
+ ]
+}
